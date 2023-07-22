@@ -1,0 +1,57 @@
+#principal {
+  font-size: 60px;
+  color: red;
+}
+
+h2 {
+  font-size: 40px;
+  color: green;
+}
+
+h3 {
+  font-size: 35px;
+  color: brown;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Ysabeau SC', sans-serif;
+}
+
+p,
+ul,
+ol {
+  font-size: 20px;
+  color: black;
+  font-family: 'Oswald', sans-serif;
+}
+
+.mascotas {
+  width: 300px;
+  border-width: 10px;
+  border-color: gray;
+  border-style: ridge;
+  border-radius: 50%;
+}
+
+.mimi {
+  width: 200px;
+  border-width: 10px;
+  border-color: gray;
+  border-style: ridge dashed;
+  border-radius: 70px;
+}
+
+.curvas {
+  border-radius: 30px;
+}
+
+.parte1 {
+  background-color: aqua;
+}
+
+.parte2,
+.parte {
+  background-color: silver;
+}
